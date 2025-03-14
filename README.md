@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcekbck
 - 👀 I’m interested in development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on what you need really.
+- 💞️ I’m looking to collaborate on whatever you need help..
 - 📫 Email: mferreira.professional@gmail.com / discord: kubick#3223
 - ⚡ Fun fact: My wife bosses me.
 
